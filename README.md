@@ -1,1 +1,1 @@
-# Vending-Machine
+The code sets the name and location of the Vending machine. It also manages takes user input for items and compares with the quantity available. It dispenses the item selected and also takes returns. It displays the electronic receipt, the total bill, the items sold and the total earnings of the machine.
